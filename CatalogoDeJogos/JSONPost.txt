@@ -1,0 +1,108 @@
+{
+	"titulo":"League of Legends",
+	"desenvolvedora":"Riot Games",
+	"idiomas":"Português, Inglês, Coreano, Japonês, Russo",
+	"distribuidora":"Riot Games",
+	"dataLancamento":"2009",
+	"numeroJogadores": "1",
+	"genero":"RPG",
+	"requisitosSistema":{
+		"sistemaOperacional":"Windows 7 e 8",
+		"processador":"Intel Core i3-530 / AMD A6-3650",
+		"placaDeVideo":"NVidia GeForce 9600GT / AMD HD 6570 / Intel HD 4600 Integrated Graphics.",
+		"memoria":"2GB RAM",
+		"armazenamento":"16GB"
+	}	
+}
+
+------------------------------------------------------------------------------------------------------
+
+{
+	"titulo":"Red Dead Redemption 2",
+	"desenvolvedora":"Rockstar Games",
+	"idiomas":"Português, Inglês, Francês, Italiano, Espanhol, Chinês, etc...",
+	"distribuidora":"Riot Games",
+	"dataLancamento":"2018",
+	"numeroJogadores": "1",
+	"genero":"ACAO",
+	"requisitosSistema":{
+		"sistemaOperacional":" Windows 7 - Service Pack 1",
+		"processador":"Intel Core i5-2500K / AMD FX-6300.",
+		"placaDeVideo":"Nvidia GeForce GTX 770 2 GB / AMD Radeon R9 280 3 GB",
+		"memoria":"8GB RAM",
+		"armazenamento":"150 GB"
+	}	
+}
+
+------------------------------------------------------------------------------------------------------
+
+{
+	"titulo":"Dota 2",
+	"desenvolvedora":"Valve",
+	"idiomas":"Inglês, Russo, Chinês e Coreano",
+	"dataLancamento":"2013",
+	"numeroJogadores": "4",
+	"genero":"RPG",
+	"requisitosSistema":{
+		"processador":"Dual core da Intel ou da AMD com 2,8 GHz",
+		"placaDeVideo":"NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600",
+		"memoria":"4 GB de RAM",
+		"armazenamento":"Requer 60 GB de espaço livre"
+	}	
+}
+
+------------------------------------------------------------------------------------------------------
+
+{
+	"titulo":"Call of Duty",
+	"desenvolvedora":"Activision",
+	"idiomas":"Inglês, alemão, italiano, francês etc",
+	"dataLancamento":"2003",
+	"numeroJogadores": "1",
+	"genero":"TIRO",
+	"requisitosSistema":{
+		"sistemaOperacional":"Windows 10 64-Bits",
+		"processador":"Intel Core i3-6100, Core i5-2500K ou AMD Ryzen 3 1200",
+		"placaDeVideo":" NVIDIA GeForce GTX 960 ou AMD Radeon RX 470.",
+		"memoria":"8 GB",
+		"armazenamento":"125 GB de espaço disponível."
+	}	
+}
+
+------------------------------------------------------------------------------------------------------
+
+
+{
+	"titulo":"The Sims 4",
+	"desenvolvedora":"Maxis",
+	"idiomas":"Inglês, alemão, italiano, francês etc",
+	"dataLancamento":"2014",
+	"numeroJogadores": "3",
+	"genero":"SIMULADOR",
+	"requisitosSistema":{
+		"sistemaOperacional":"Windows 10 64-Bits",
+		"processador":"Intel core i5 (4 núcleos) ou superior, AMD Ryzen 5 ou superior.",
+		"placaDeVideo":" NVIDIA GeForce GTX 960 ou AMD Radeon RX 470.",
+		"memoria":" 8 GB de RAM.",
+		"armazenamento":"51 GB"
+	}	
+}
+
+------------------------------------------------------------------------------------------------------
+
+
+{
+	"titulo":"Minecraft Java Edition",
+	"desenvolvedora":"Mojang Studios",
+	"idiomas":"Português, Inglês, Francês, Alemão, Búlgaro, Dinamarquês, Espanhol, e vários outros.",
+	"dataLancamento":"2011",
+	"numeroJogadores": "2",
+	"genero":"SIMULADOR",
+	"requisitosSistema":{
+		"sistemaOperacional":"Windows anterior ao 10, macOS ou Linux",
+		"processador":"Intel Core i3-3210 de 3,2 GHz, AMD A8-7600 de 3,1 GHz ou equivalente",
+		"placaDeVideo":" Intel HD Graphics 4000 ou AMD Radeon R5",
+		"memoria":" 4 GB.",
+		"armazenamento":"1 GB"
+	}	
+}

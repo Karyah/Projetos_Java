@@ -1,0 +1,7 @@
+{"id":"3",
+"numeroJogadores":"2"}
+
+--------------------------
+
+{"id":"4",
+"titulo":"Call Of Duty: Warzone"}
